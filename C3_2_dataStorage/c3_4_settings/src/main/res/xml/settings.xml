@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="settings">
+    <PreferenceCategory
+        android:key="voice"
+        android:title="声音选项">
+        <CheckBoxPreference
+            android:key="clientmode"
+            android:title="静音模式"
+            android:summary="全部设置为静音"
+        />
+        <ListPreference
+            android:key="zhendong"
+            android:title="震动"
+            android:summary="全部震动"
+            android:entries="@array/list"
+            android:entryValues="@array/list"/>
+    </PreferenceCategory>
+    <PreferenceScreen
+        android:key="wifi-settings"
+        android:title="wifi设置">
+        <intent android:action="android.settings.WIFI_SETTINGS"/>
+    </PreferenceScreen>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="settings">
+        <PreferenceCategory
+            android:key="voice"
+            android:title="声音选项">
+            <CheckBoxPreference
+                android:key="clientmode"
+                android:title="静音模式"
+                android:summary="全部设置为静音"
+                />
+            <ListPreference
+                android:key="zhendong"
+                android:title="震动"
+                android:summary="全部震动"
+                android:entries="@array/list"
+                android:entryValues="@array/list"/>
+        </PreferenceCategory>
+    </PreferenceScreen>
+</PreferenceScreen>

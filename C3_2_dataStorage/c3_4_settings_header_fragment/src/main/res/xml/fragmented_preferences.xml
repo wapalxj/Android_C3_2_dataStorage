@@ -1,0 +1,58 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="checkbox">
+        <CheckBoxPreference
+            android:key="checkbox_preference"
+            android:title="checkbox"
+            android:checked="false"
+            android:summary="checkbox" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="222">
+
+        <EditTextPreference
+            android:key="edittext_preference"
+            android:title="EditText"
+            android:summary="录入什么东西"
+            android:dialogTitle="选一个吧" />
+
+        <ListPreference
+            android:key="list_preference"
+            android:title="列表而已"
+            android:summary="33333333333333333"
+            android:entries="@array/list"
+            android:entryValues="@array/list"
+            android:dialogTitle="list" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="444">
+
+        <PreferenceScreen
+            android:fragment="com.c3.vero.c3_4_settings_header_fragment.PreferenceWithHeaders$Prefs1FragmentInner"
+            android:title="inner"
+            android:summary="innnnnnererererer">
+            <!-- Arbitrary key/value pairs can be included for fragment arguments -->
+            <extra android:name="someKey" android:value="somePrefValue" />
+        </PreferenceScreen>
+
+        <!-- This PreferenceScreen tag sends the user to a completely different
+             activity, switching out of the current preferences UI. -->
+        <PreferenceScreen
+            android:title="2222"
+            android:summary="222222222222222222">
+
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://www.baidu.com" />
+
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

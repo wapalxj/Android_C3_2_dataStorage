@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">C3_4_Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list">
+        <item>vero</item>
+        <item>vnix</item>
+        <item>vero2</item>
+        <item>vero3</item>
+    </string-array>
+    <string name="title_activity_intent_res">IntentRes</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header android:fragment="com.c3.vero.c3_4_settings_header_fragment.PreferenceWithHeaders$Prefs1Fragment"
+        android:title="Prefs 1"
+        android:summary="An example of some preferences."
+        />
+
+    <header android:fragment="com.c3.vero.c3_4_settings_header_fragment.PreferenceWithHeaders$Prefs2Fragment"
+        android:title="Prefs 2"
+        android:summary="Some other preferences you can see.">
+        <extra android:name="someKey" android:value="someHeaderValue" />
+    </header>
+
+    <header
+        android:title="百度"
+        android:summary="点我跳转到百度.">
+        <intent android:action="android.intent.action.VIEW"
+            android:data="http://www.baidu.com" />
+    </header>
+</preference-headers>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C3_2_dataStorage2.iml" filepath="$PROJECT_DIR$/C3_2_dataStorage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_09_sqlite/c3_09_sqlite.iml" filepath="$PROJECT_DIR$/c3_09_sqlite/c3_09_sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_11_sqlite_list_demo/c3_11_sqlite_list_demo.iml" filepath="$PROJECT_DIR$/c3_11_sqlite_list_demo/c3_11_sqlite_list_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_13_sqliteopenhelper/c3_13_sqliteopenhelper.iml" filepath="$PROJECT_DIR$/c3_13_sqliteopenhelper/c3_13_sqliteopenhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_19_sqlite_exise/c3_19_sqlite_exise.iml" filepath="$PROJECT_DIR$/c3_19_sqlite_exise/c3_19_sqlite_exise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_2_sharedpreferences/c3_2_sharedpreferences.iml" filepath="$PROJECT_DIR$/c3_2_sharedpreferences/c3_2_sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_settings/c3_4_settings.iml" filepath="$PROJECT_DIR$/c3_4_settings/c3_4_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_settings_header_fragment/c3_4_settings_header_fragment.iml" filepath="$PROJECT_DIR$/c3_4_settings_header_fragment/c3_4_settings_header_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_99_connect_with_contentprovider/c3_99_connect_with_contentprovider.iml" filepath="$PROJECT_DIR$/c3_99_connect_with_contentprovider/c3_99_connect_with_contentprovider.iml" />
+    </modules>
+  </component>
+</project>
