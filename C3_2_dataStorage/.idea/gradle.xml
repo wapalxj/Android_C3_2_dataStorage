@@ -11,6 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/c31_03_hm_file_permission" />
+            <option value="$PROJECT_DIR$/c31_03_hm_file_permission2_test" />
+            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences" />
+            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences2_settings" />
+            <option value="$PROJECT_DIR$/c31_1_hm_private_path" />
+            <option value="$PROJECT_DIR$/c31_2_hm_sdcard" />
             <option value="$PROJECT_DIR$/c3_09_sqlite" />
             <option value="$PROJECT_DIR$/c3_11_sqlite_list_demo" />
             <option value="$PROJECT_DIR$/c3_13_sqliteopenhelper" />

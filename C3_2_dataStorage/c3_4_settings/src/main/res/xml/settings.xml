@@ -5,6 +5,7 @@
         android:key="voice"
         android:title="声音选项">
         <CheckBoxPreference
+            android:id="@+id/d"
             android:key="clientmode"
             android:title="静音模式"
             android:summary="全部设置为静音"

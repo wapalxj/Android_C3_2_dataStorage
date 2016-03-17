@@ -45,10 +45,11 @@ public class PreferenceWithHeaders extends PreferenceActivity {
         @Override
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
-            PreferenceManager.setDefaultValues(getActivity(),
-                    R.xml.default_values, false);
+//            PreferenceManager.setDefaultValues(getActivity().getApplicationContext(),
+//                    R.xml.default_values, false);
             // Load the preferences from an XML resource
             addPreferencesFromResource(R.xml.fragmented_preferences);
+
             pre=findPreference("checkbox_preference");
             pre.setOnPreferenceChangeListener(new Preference.OnPreferenceChangeListener() {
                 @Override

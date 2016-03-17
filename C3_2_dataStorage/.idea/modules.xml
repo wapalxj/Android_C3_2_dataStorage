@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/C3_2_dataStorage2.iml" filepath="$PROJECT_DIR$/C3_2_dataStorage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C3_2_dataStorage.iml" filepath="$PROJECT_DIR$/C3_2_dataStorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_03_hm_file_permission/c31_03_hm_file_permission.iml" filepath="$PROJECT_DIR$/c31_03_hm_file_permission/c31_03_hm_file_permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_03_hm_file_permission2_test/c31_03_hm_file_permission2_test.iml" filepath="$PROJECT_DIR$/c31_03_hm_file_permission2_test/c31_03_hm_file_permission2_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_04_hm_sharedpreferences/c31_04_hm_sharedpreferences.iml" filepath="$PROJECT_DIR$/c31_04_hm_sharedpreferences/c31_04_hm_sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_04_hm_sharedpreferences2_settings/c31_04_hm_sharedpreferences2_settings.iml" filepath="$PROJECT_DIR$/c31_04_hm_sharedpreferences2_settings/c31_04_hm_sharedpreferences2_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_1_hm_private_path/c31_1_hm_private_path.iml" filepath="$PROJECT_DIR$/c31_1_hm_private_path/c31_1_hm_private_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c31_2_hm_sdcard/c31_2_hm_sdcard.iml" filepath="$PROJECT_DIR$/c31_2_hm_sdcard/c31_2_hm_sdcard.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_09_sqlite/c3_09_sqlite.iml" filepath="$PROJECT_DIR$/c3_09_sqlite/c3_09_sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_11_sqlite_list_demo/c3_11_sqlite_list_demo.iml" filepath="$PROJECT_DIR$/c3_11_sqlite_list_demo/c3_11_sqlite_list_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_13_sqliteopenhelper/c3_13_sqliteopenhelper.iml" filepath="$PROJECT_DIR$/c3_13_sqliteopenhelper/c3_13_sqliteopenhelper.iml" />

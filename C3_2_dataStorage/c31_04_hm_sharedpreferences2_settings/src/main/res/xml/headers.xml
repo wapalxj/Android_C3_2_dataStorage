@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="com.c31_04_hm_sharedpreferences2_settings.MainActivity$frag1"
+        android:key="f1"
+        android:title="f1"
+        android:summary="第一个preference"
+        >
+    </header>
+    <header
+        android:fragment="com.c31_04_hm_sharedpreferences2_settings.MainActivity$frag2"
+        android:key="f2"
+        android:title="f2"
+        android:summary="第2个preference"
+        >
+    </header>
+    <header
+        android:fragment="com.c31_04_hm_sharedpreferences2_settings.MainActivity$frag3"
+        android:key="f3"
+        android:title="f3"
+        android:summary="第3个preference"
+        >
+    </header>
+</preference-headers>

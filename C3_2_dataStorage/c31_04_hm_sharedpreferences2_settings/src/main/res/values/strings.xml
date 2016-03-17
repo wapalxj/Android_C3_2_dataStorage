@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">C31_04_hm_sharedpreferences2_settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list">
+        <item>vero</item>
+        <item>vnix</item>
+        <item>vero2</item>
+        <item>vero3</item>
+    </string-array>
+</resources>

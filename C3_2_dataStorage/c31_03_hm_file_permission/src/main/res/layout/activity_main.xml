@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+    android:id="@+id/getPrivateFile"
+    android:text="创建私有文件"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="getPrivateFile"/>
+    <Button
+        android:id="@+id/getReadOnlyFile"
+        android:text="创建只读文件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="getReadOnlyFile"/>
+    <Button
+        android:id="@+id/getWriteOnlyFile"
+        android:text="创建只写文件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="getWriteOnlyFile"/>
+    <Button
+        android:id="@+id/getPublicFile"
+        android:text="创建私有文件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="getPublicFile"/>
+
+</LinearLayout>
