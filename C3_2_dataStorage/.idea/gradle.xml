@@ -3,54 +3,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/c31_01_hm_private_path" />
-            <option value="$PROJECT_DIR$/c31_02_hm_sdcard" />
-            <option value="$PROJECT_DIR$/c31_03_hm_file_permission" />
-            <option value="$PROJECT_DIR$/c31_03_hm_file_permission2_test" />
-            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences" />
-            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences2_settings" />
-            <option value="$PROJECT_DIR$/c31_05_hm_xml" />
-            <option value="$PROJECT_DIR$/c31_06_hm_sqlite" />
-            <option value="$PROJECT_DIR$/c31_06_hm_sqlite2_crud" />
-            <option value="$PROJECT_DIR$/c3_09_sqlite" />
-            <option value="$PROJECT_DIR$/c3_11_sqlite_list_demo" />
-            <option value="$PROJECT_DIR$/c3_13_sqliteopenhelper" />
-            <option value="$PROJECT_DIR$/c3_19_sqlite_exise" />
-            <option value="$PROJECT_DIR$/c3_2_sharedpreferences" />
-            <option value="$PROJECT_DIR$/c3_4_settings" />
-            <option value="$PROJECT_DIR$/c3_4_settings_header_fragment" />
-            <option value="$PROJECT_DIR$/c3_99_connect_with_contentprovider" />
-          </set>
-        </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/c31_01_hm_private_path" />
-            <option value="$PROJECT_DIR$/c31_02_hm_sdcard" />
-            <option value="$PROJECT_DIR$/c31_03_hm_file_permission" />
-            <option value="$PROJECT_DIR$/c31_03_hm_file_permission2_test" />
-            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences" />
-            <option value="$PROJECT_DIR$/c31_04_hm_sharedpreferences2_settings" />
-            <option value="$PROJECT_DIR$/c31_05_hm_xml" />
-            <option value="$PROJECT_DIR$/c31_06_hm_sqlite" />
-            <option value="$PROJECT_DIR$/c31_06_hm_sqlite2_crud" />
-            <option value="$PROJECT_DIR$/c3_09_sqlite" />
-            <option value="$PROJECT_DIR$/c3_11_sqlite_list_demo" />
-            <option value="$PROJECT_DIR$/c3_13_sqliteopenhelper" />
-            <option value="$PROJECT_DIR$/c3_19_sqlite_exise" />
-            <option value="$PROJECT_DIR$/c3_2_sharedpreferences" />
-            <option value="$PROJECT_DIR$/c3_4_settings" />
-            <option value="$PROJECT_DIR$/c3_4_settings_header_fragment" />
-            <option value="$PROJECT_DIR$/c3_99_connect_with_contentprovider" />
-          </set>
-        </option>
       </GradleProjectSettings>
     </option>
   </component>
